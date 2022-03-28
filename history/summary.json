@@ -4,18 +4,20 @@
     "url": "https://nuke-protector.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/nuke-protector.ahq-alt.repl.co",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2022-03-28": 0
+    }
   },
   {
     "name": "Bot",
