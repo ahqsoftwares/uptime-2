@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/nuke-protector.ahq-alt.repl.co",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
+    "uptime": "96.96%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
     "time": 1325,
     "timeDay": 1325,
     "timeWeek": 1325,
@@ -24,7 +24,7 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1372,
     "timeMonth": 1372,
     "timeYear": 1372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   }
 ]
