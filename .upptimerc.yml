@@ -4,7 +4,9 @@ repo: uptime-2 # The name of this repository
 
 sites:
   - name: Dashboard
-    url: https://nuke-protector.ahq-alt.repl.co/
+    url: https://guard-bot.ahq-alt.repl.co/
+  - name: Beta Dashboard
+    url: https://guard-bot-beta.ahq-alt.repl.co/
   - name: Bot
     url: https://ahq-miness.ahqsecret.repl.co/
 
