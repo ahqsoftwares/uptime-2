@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "62.90%",
-    "uptimeWeek": "87.44%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.10%",
+    "uptimeDay": "64.39%",
+    "uptimeWeek": "87.53%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "95.10%",
     "time": 2359,
     "timeDay": 11640,
     "timeWeek": 3473,
     "timeMonth": 2550,
     "timeYear": 2359,
     "dailyMinutesDown": {
-      "2022-08-30": 512,
+      "2022-08-30": 503,
       "2022-08-29": 23,
       "2022-08-28": 75,
       "2022-08-27": 43,
@@ -84,7 +84,7 @@
       "2022-04-02": 24,
       "2022-04-01": 131,
       "2022-03-31": 114,
-      "2022-03-30": 34
+      "2022-03-30": 71
     }
   },
   {
@@ -93,14 +93,14 @@
     "icon": "https://favicons.githubusercontent.com/guard-bot-beta.ahq-alt.repl.co",
     "slug": "beta-dashboard",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.78%",
     "uptimeMonth": "94.30%",
-    "uptimeYear": "94.98%",
+    "uptimeYear": "94.99%",
     "time": 3383,
     "timeDay": 610,
-    "timeWeek": 5092,
+    "timeWeek": 5069,
     "timeMonth": 4719,
     "timeYear": 3383,
     "dailyMinutesDown": {
@@ -160,12 +160,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "95.10%",
+    "status": "down",
+    "uptime": "98.37%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "95.09%",
     "uptimeMonth": "96.85%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.37%",
     "time": 1828,
     "timeDay": 1953,
     "timeWeek": 3367,
@@ -229,7 +229,7 @@
       "2022-04-01": 124,
       "2022-03-31": 97,
       "2022-03-30": 100,
-      "2022-03-29": 232
+      "2022-03-29": 196
     }
   }
 ]
