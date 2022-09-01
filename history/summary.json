@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "86.95%",
-    "uptimeWeek": "89.48%",
+    "uptimeWeek": "89.63%",
     "uptimeMonth": "91.75%",
-    "uptimeYear": "95.14%",
+    "uptimeYear": "95.15%",
     "time": 2371,
     "timeDay": 3176,
-    "timeWeek": 3067,
+    "timeWeek": 3108,
     "timeMonth": 2627,
     "timeYear": 2371,
     "dailyMinutesDown": {
@@ -162,12 +162,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "82.88%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "84.41%",
     "uptimeWeek": "94.20%",
     "uptimeMonth": "96.20%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 1817,
     "timeDay": 2008,
     "timeWeek": 2845,
@@ -231,7 +231,7 @@
       "2022-04-06": 22,
       "2022-04-05": 81,
       "2022-04-01": 124,
-      "2022-03-31": 97
+      "2022-03-31": 67
     }
   }
 ]
