@@ -4,18 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "95.13%",
-    "uptimeDay": "93.64%",
+    "status": "down",
+    "uptime": "95.16%",
+    "uptimeDay": "93.63%",
     "uptimeWeek": "90.63%",
     "uptimeMonth": "92.01%",
-    "uptimeYear": "95.13%",
+    "uptimeYear": "95.16%",
     "time": 2362,
     "timeDay": 2652,
     "timeWeek": 3047,
     "timeMonth": 2604,
     "timeYear": 2362,
     "dailyMinutesDown": {
+      "2022-09-01": 0,
       "2022-08-31": 92,
       "2022-08-30": 503,
       "2022-08-29": 23,
@@ -84,7 +85,7 @@
       "2022-04-05": 67,
       "2022-04-02": 24,
       "2022-04-01": 131,
-      "2022-03-31": 114
+      "2022-03-31": 65
     }
   },
   {
@@ -92,9 +93,9 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot-beta.ahq-alt.repl.co",
     "slug": "beta-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "94.97%",
-    "uptimeDay": "90.81%",
+    "uptimeDay": "90.80%",
     "uptimeWeek": "88.46%",
     "uptimeMonth": "94.18%",
     "uptimeYear": "94.97%",
@@ -162,18 +163,19 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "82.57%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "96.38%",
+    "uptimeYear": "98.38%",
     "time": 1828,
     "timeDay": 2137,
-    "timeWeek": 3075,
+    "timeWeek": 3082,
     "timeMonth": 2244,
     "timeYear": 1828,
     "dailyMinutesDown": {
+      "2022-09-01": 0,
       "2022-08-31": 252,
       "2022-08-30": 28,
       "2022-08-28": 50,
@@ -231,7 +233,7 @@
       "2022-04-05": 81,
       "2022-04-01": 124,
       "2022-03-31": 97,
-      "2022-03-30": 100
+      "2022-03-30": 53
     }
   }
 ]
