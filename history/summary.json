@@ -8,7 +8,7 @@
     "uptime": "95.13%",
     "uptimeDay": "94.56%",
     "uptimeWeek": "89.31%",
-    "uptimeMonth": "91.18%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "95.13%",
     "time": 2328,
     "timeDay": 354,
@@ -95,13 +95,13 @@
     "slug": "beta-dashboard",
     "status": "up",
     "uptime": "94.97%",
-    "uptimeDay": "89.50%",
+    "uptimeDay": "91.17%",
     "uptimeWeek": "86.75%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "94.97%",
     "time": 3377,
     "timeDay": 4624,
-    "timeWeek": 3886,
+    "timeWeek": 3321,
     "timeMonth": 4680,
     "timeYear": 3377,
     "dailyMinutesDown": {
@@ -165,16 +165,16 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "85.45%",
+    "status": "down",
+    "uptime": "98.37%",
+    "uptimeDay": "85.43%",
     "uptimeWeek": "92.92%",
     "uptimeMonth": "95.70%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.37%",
     "time": 1886,
     "timeDay": 5295,
     "timeWeek": 3266,
-    "timeMonth": 2459,
+    "timeMonth": 2477,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2022-09-03": 126,
@@ -234,7 +234,7 @@
       "2022-04-09": 22,
       "2022-04-08": 32,
       "2022-04-06": 22,
-      "2022-04-05": 81
+      "2022-04-05": 60
     }
   }
 ]
