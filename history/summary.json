@@ -4,10 +4,10 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "95.11%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "88.91%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "88.89%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "95.11%",
     "time": 2372,
@@ -16,7 +16,7 @@
     "timeMonth": 2494,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2022-09-06": 24,
+      "2022-09-06": 26,
       "2022-09-05": 350,
       "2022-09-04": 167,
       "2022-09-03": 178,
@@ -77,8 +77,7 @@
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 486,
-      "2022-04-26": 23,
-      "2022-04-23": 20
+      "2022-04-26": 23
     }
   },
   {
@@ -86,18 +85,19 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot-beta.ahq-alt.repl.co",
     "slug": "beta-dashboard",
-    "status": "up",
-    "uptime": "94.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.03%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "92.58%",
     "uptimeMonth": "92.87%",
-    "uptimeYear": "94.87%",
+    "uptimeYear": "95.03%",
     "time": 3438,
     "timeDay": 4483,
     "timeWeek": 4487,
     "timeMonth": 4892,
     "timeYear": 3438,
     "dailyMinutesDown": {
+      "2022-09-06": 0,
       "2022-09-05": 406,
       "2022-09-04": 18,
       "2022-09-03": 140,
@@ -151,8 +151,7 @@
       "2022-04-10": 185,
       "2022-04-09": 235,
       "2022-04-08": 582,
-      "2022-04-07": 603,
-      "2022-04-06": 267
+      "2022-04-07": 532
     }
   },
   {
@@ -163,12 +162,12 @@
     "status": "up",
     "uptime": "98.00%",
     "uptimeDay": "74.39%",
-    "uptimeWeek": "79.00%",
+    "uptimeWeek": "79.16%",
     "uptimeMonth": "92.38%",
     "uptimeYear": "98.00%",
     "time": 1972,
     "timeDay": 3007,
-    "timeWeek": 2893,
+    "timeWeek": 2869,
     "timeMonth": 2553,
     "timeYear": 1972,
     "dailyMinutesDown": {
