@@ -4,12 +4,12 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "96.85%",
-    "uptimeDay": "85.58%",
+    "status": "down",
+    "uptime": "96.86%",
+    "uptimeDay": "85.56%",
     "uptimeWeek": "87.28%",
     "uptimeMonth": "92.78%",
-    "uptimeYear": "96.85%",
+    "uptimeYear": "96.86%",
     "time": 2385,
     "timeDay": 2957,
     "timeWeek": 2663,
@@ -74,7 +74,7 @@
       "2022-05-12": 10,
       "2022-05-07": 17,
       "2022-05-01": 797,
-      "2022-04-30": 304
+      "2022-04-30": 284
     }
   },
   {
