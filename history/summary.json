@@ -6,8 +6,8 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "90.15%",
-    "uptimeWeek": "73.12%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "74.52%",
     "uptimeMonth": "83.11%",
     "uptimeYear": "96.92%",
     "time": 2467,
@@ -138,18 +138,19 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "97.43%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "85.39%",
-    "uptimeYear": "97.43%",
+    "status": "down",
+    "uptime": "97.46%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "71.64%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "97.46%",
     "time": 2582,
-    "timeDay": 7405,
-    "timeWeek": 6055,
-    "timeMonth": 4054,
+    "timeDay": 8192,
+    "timeWeek": 6176,
+    "timeMonth": 4073,
     "timeYear": 2582,
     "dailyMinutesDown": {
+      "2022-09-17": 0,
       "2022-09-16": 488,
       "2022-09-15": 262,
       "2022-09-14": 205,
@@ -174,7 +175,7 @@
       "2022-08-25": 90,
       "2022-08-24": 140,
       "2022-08-23": 28,
-      "2022-08-22": 91
+      "2022-08-22": 19
     }
   }
 ]
