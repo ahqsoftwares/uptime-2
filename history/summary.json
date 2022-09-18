@@ -4,19 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "82.72%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "96.94%",
+    "uptimeDay": "83.23%",
+    "uptimeWeek": "89.44%",
+    "uptimeMonth": "82.71%",
+    "uptimeYear": "96.94%",
     "time": 2445,
     "timeDay": 1305,
-    "timeWeek": 2805,
+    "timeWeek": 2850,
     "timeMonth": 2827,
     "timeYear": 2445,
     "dailyMinutesDown": {
-      "2022-09-18": 190,
+      "2022-09-18": 192,
       "2022-09-17": 100,
       "2022-09-16": 188,
       "2022-09-15": 190,
@@ -49,8 +49,7 @@
       "2022-08-18": 16,
       "2022-08-17": 72,
       "2022-08-16": 17,
-      "2022-08-14": 17,
-      "2022-08-13": 20
+      "2022-08-14": 17
     }
   },
   {
@@ -62,7 +61,7 @@
     "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.92%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "95.37%",
     "time": 3481,
     "timeDay": 514,
@@ -133,15 +132,15 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "78.21%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "97.48%",
+    "status": "down",
+    "uptime": "97.49%",
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "80.29%",
+    "uptimeMonth": "85.62%",
+    "uptimeYear": "97.49%",
     "time": 2636,
-    "timeDay": 3188,
-    "timeWeek": 5576,
+    "timeDay": 3432,
+    "timeWeek": 5671,
     "timeMonth": 4121,
     "timeYear": 2636,
     "dailyMinutesDown": {
@@ -166,8 +165,7 @@
       "2022-08-31": 252,
       "2022-08-30": 28,
       "2022-08-28": 50,
-      "2022-08-27": 21,
-      "2022-08-26": 20
+      "2022-08-27": 21
     }
   }
 ]
