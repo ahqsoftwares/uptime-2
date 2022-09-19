@@ -6,17 +6,17 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "96.86%",
-    "uptimeDay": "77.79%",
-    "uptimeWeek": "87.14%",
-    "uptimeMonth": "82.02%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "87.29%",
+    "uptimeMonth": "82.05%",
     "uptimeYear": "96.86%",
     "time": 2505,
-    "timeDay": 5469,
+    "timeDay": 4036,
     "timeWeek": 3649,
     "timeMonth": 2926,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2022-09-19": 303,
+      "2022-09-19": 288,
       "2022-09-18": 236,
       "2022-09-17": 100,
       "2022-09-16": 188,
@@ -47,7 +47,8 @@
       "2022-08-21": 25,
       "2022-08-20": 55,
       "2022-08-19": 26,
-      "2022-08-18": 16
+      "2022-08-18": 16,
+      "2022-08-17": 20
     }
   },
   {
@@ -55,12 +56,12 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://favicons.githubusercontent.com/guard-bot-beta.ahq-alt.repl.co",
     "slug": "beta-dashboard",
-    "status": "up",
-    "uptime": "95.43%",
-    "uptimeDay": "93.15%",
+    "status": "down",
+    "uptime": "95.44%",
+    "uptimeDay": "93.14%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "95.03%",
-    "uptimeYear": "95.43%",
+    "uptimeYear": "95.44%",
     "time": 3555,
     "timeDay": 10533,
     "timeWeek": 5888,
@@ -123,7 +124,7 @@
       "2022-04-10": 185,
       "2022-04-09": 235,
       "2022-04-08": 582,
-      "2022-04-07": 257
+      "2022-04-07": 223
     }
   },
   {
@@ -133,17 +134,17 @@
     "slug": "bot",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "79.02%",
-    "uptimeMonth": "85.36%",
+    "uptimeDay": "83.42%",
+    "uptimeWeek": "79.16%",
+    "uptimeMonth": "85.35%",
     "uptimeYear": "97.46%",
     "time": 2666,
-    "timeDay": 4327,
+    "timeDay": 4732,
     "timeWeek": 5475,
     "timeMonth": 4131,
     "timeYear": 2666,
     "dailyMinutesDown": {
-      "2022-09-19": 213,
+      "2022-09-19": 199,
       "2022-09-18": 243,
       "2022-09-17": 264,
       "2022-09-16": 488,
@@ -162,7 +163,7 @@
       "2022-09-03": 603,
       "2022-09-02": 134,
       "2022-09-01": 102,
-      "2022-08-31": 143
+      "2022-08-31": 166
     }
   }
 ]
