@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/guard-bot.ahq-alt.repl.co",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "88.61%",
     "uptimeWeek": "87.67%",
     "uptimeMonth": "84.01%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.30%",
     "time": 2495,
     "timeDay": 588,
     "timeWeek": 2752,
@@ -122,12 +122,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "75.77%",
+    "status": "down",
+    "uptime": "97.69%",
+    "uptimeDay": "75.76%",
     "uptimeWeek": "81.74%",
-    "uptimeMonth": "86.28%",
-    "uptimeYear": "97.68%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "97.69%",
     "time": 2690,
     "timeDay": 340,
     "timeWeek": 3596,
@@ -153,7 +153,7 @@
       "2022-09-08": 254,
       "2022-09-07": 243,
       "2022-09-06": 383,
-      "2022-09-05": 103
+      "2022-09-05": 75
     }
   }
 ]
