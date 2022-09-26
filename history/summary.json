@@ -122,14 +122,14 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "86.77%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "86.75%",
     "uptimeWeek": "83.67%",
-    "uptimeMonth": "86.64%",
-    "uptimeYear": "97.76%",
+    "uptimeMonth": "86.68%",
+    "uptimeYear": "97.77%",
     "time": 2686,
-    "timeDay": 2823,
+    "timeDay": 3196,
     "timeWeek": 3225,
     "timeMonth": 4161,
     "timeYear": 2686,
@@ -153,8 +153,7 @@
       "2022-09-10": 781,
       "2022-09-09": 46,
       "2022-09-08": 254,
-      "2022-09-07": 243,
-      "2022-09-06": 15
+      "2022-09-07": 243
     }
   }
 ]
