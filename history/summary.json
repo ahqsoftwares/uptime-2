@@ -47,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/guard-bot-beta.ahq-alt.repl.co",
     "slug": "beta-dashboard",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.72%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "95.73%",
     "time": 3532,
     "timeDay": 29459,
     "timeWeek": 4484,
@@ -122,12 +122,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ahq-miness.ahqsecret.repl.co",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "82.84%",
-    "uptimeMonth": "89.08%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "81.04%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "89.21%",
+    "uptimeYear": "98.24%",
     "time": 2689,
     "timeDay": 6085,
     "timeWeek": 2488,
@@ -152,7 +152,7 @@
       "2022-09-15": 262,
       "2022-09-14": 205,
       "2022-09-13": 320,
-      "2022-09-12": 202
+      "2022-09-12": 146
     }
   }
 ]
