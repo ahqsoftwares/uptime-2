@@ -1,7 +1,7 @@
 url: https://guard-bot.ahq-alt.repl.co/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2022-10-08T04:54:29.903Z
+status: down
+code: 500
+responseTime: 10035
+lastUpdated: 2022-10-08T08:48:54.728Z
 startTime: Mon Mar 28 2022 11:46:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
