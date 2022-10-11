@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
     "status": "up",
-    "uptime": "95.91%",
+    "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "95.91%",
+    "uptimeYear": "95.92%",
     "time": 3552,
     "timeDay": 14435,
     "timeWeek": 5163,
@@ -121,14 +121,14 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "77.73%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "80.42%",
     "uptimeWeek": "84.76%",
-    "uptimeMonth": "89.63%",
-    "uptimeYear": "98.40%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "98.42%",
     "time": 2869,
-    "timeDay": 3889,
+    "timeDay": 4271,
     "timeWeek": 3380,
     "timeMonth": 4010,
     "timeYear": 2869,
@@ -152,7 +152,7 @@
       "2022-09-25": 139,
       "2022-09-24": 357,
       "2022-09-23": 133,
-      "2022-09-22": 112
+      "2022-09-22": 48
     }
   }
 ]
