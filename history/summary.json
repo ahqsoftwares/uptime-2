@@ -121,12 +121,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "88.88%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "88.86%",
     "uptimeWeek": "80.72%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "98.55%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "98.56%",
     "time": 2942,
     "timeDay": 6212,
     "timeWeek": 3750,
@@ -149,8 +149,7 @@
       "2022-10-01": 202,
       "2022-09-30": 299,
       "2022-09-29": 101,
-      "2022-09-28": 211,
-      "2022-09-27": 42
+      "2022-09-28": 211
     }
   }
 ]
