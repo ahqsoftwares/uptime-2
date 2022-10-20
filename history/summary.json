@@ -4,18 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "85.41%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "98.74%",
     "time": 2646,
     "timeDay": 487,
-    "timeWeek": 3290,
-    "timeMonth": 2994,
+    "timeWeek": 3352,
+    "timeMonth": 2894,
     "timeYear": 2646,
     "dailyMinutesDown": {
+      "2022-10-20": 2,
       "2022-10-19": 85,
       "2022-10-18": 259,
       "2022-10-17": 157,
@@ -34,7 +35,7 @@
       "2022-10-04": 48,
       "2022-10-03": 227,
       "2022-10-02": 145,
-      "2022-10-01": 276
+      "2022-10-01": 105
     }
   },
   {
@@ -45,12 +46,12 @@
     "status": "up",
     "uptime": "96.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "96.24%",
     "time": 3662,
     "timeDay": 469,
-    "timeWeek": 6323,
+    "timeWeek": 5516,
     "timeMonth": 5085,
     "timeYear": 3662,
     "dailyMinutesDown": {
@@ -120,16 +121,16 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "78.12%",
-    "uptimeWeek": "82.83%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "78.11%",
+    "uptimeWeek": "83.08%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "98.61%",
     "time": 2881,
     "timeDay": 423,
-    "timeWeek": 2121,
-    "timeMonth": 3313,
+    "timeWeek": 2158,
+    "timeMonth": 3327,
     "timeYear": 2881,
     "dailyMinutesDown": {
       "2022-10-20": 190,
@@ -149,7 +150,7 @@
       "2022-10-06": 102,
       "2022-10-05": 207,
       "2022-10-04": 245,
-      "2022-10-03": 153
+      "2022-10-03": 105
     }
   }
 ]
