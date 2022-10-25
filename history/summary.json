@@ -4,16 +4,16 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "84.04%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "85.50%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "98.72%",
     "time": 2670,
     "timeDay": 1598,
-    "timeWeek": 2672,
-    "timeMonth": 2964,
+    "timeWeek": 2759,
+    "timeMonth": 2988,
     "timeYear": 2670,
     "dailyMinutesDown": {
       "2022-10-25": 206,
@@ -34,7 +34,7 @@
       "2022-10-10": 175,
       "2022-10-09": 120,
       "2022-10-08": 187,
-      "2022-10-07": 228
+      "2022-10-07": 200
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "96.33%",
+    "uptimeYear": "96.34%",
     "time": 3708,
     "timeDay": 565,
     "timeWeek": 6491,
@@ -122,17 +122,17 @@
     "slug": "bot",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "75.18%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "85.04%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "89.78%",
     "uptimeYear": "98.53%",
     "time": 2958,
-    "timeDay": 5709,
-    "timeWeek": 3756,
-    "timeMonth": 3614,
+    "timeDay": 7525,
+    "timeWeek": 3891,
+    "timeMonth": 3567,
     "timeYear": 2958,
     "dailyMinutesDown": {
-      "2022-10-25": 41,
+      "2022-10-25": 32,
       "2022-10-24": 595,
       "2022-10-23": 287,
       "2022-10-22": 179,
@@ -149,7 +149,7 @@
       "2022-10-11": 350,
       "2022-10-10": 371,
       "2022-10-09": 176,
-      "2022-10-08": 63
+      "2022-10-08": 79
     }
   }
 ]
