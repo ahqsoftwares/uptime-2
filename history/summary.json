@@ -6,9 +6,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "72.02%",
-    "uptimeWeek": "83.50%",
-    "uptimeMonth": "90.31%",
+    "uptimeDay": "72.87%",
+    "uptimeWeek": "83.62%",
+    "uptimeMonth": "90.30%",
     "uptimeYear": "98.63%",
     "time": 2674,
     "timeDay": 600,
@@ -16,7 +16,7 @@
     "timeMonth": 3028,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2022-10-29": 381,
+      "2022-10-29": 369,
       "2022-10-28": 93,
       "2022-10-27": 262,
       "2022-10-26": 150,
@@ -35,7 +35,7 @@
       "2022-10-13": 235,
       "2022-10-12": 168,
       "2022-10-11": 236,
-      "2022-10-10": 5
+      "2022-10-10": 21
     }
   },
   {
@@ -121,15 +121,15 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "85.01%",
-    "uptimeWeek": "81.99%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "98.63%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "98.65%",
     "time": 2995,
     "timeDay": 6185,
-    "timeWeek": 3881,
+    "timeWeek": 3937,
     "timeMonth": 3782,
     "timeYear": 2995,
     "dailyMinutesDown": {
@@ -150,7 +150,7 @@
       "2022-10-15": 129,
       "2022-10-14": 125,
       "2022-10-13": 435,
-      "2022-10-12": 134
+      "2022-10-12": 82
     }
   }
 ]
