@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "95.05%",
-    "uptimeWeek": "83.72%",
+    "uptimeWeek": "83.79%",
     "uptimeMonth": "90.27%",
     "uptimeYear": "98.65%",
     "time": 2686,
     "timeDay": 8367,
-    "timeWeek": 3007,
+    "timeWeek": 3051,
     "timeMonth": 3113,
     "timeYear": 2686,
     "dailyMinutesDown": {
@@ -121,16 +121,16 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "80.54%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "82.02%",
     "uptimeWeek": "81.43%",
-    "uptimeMonth": "90.38%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "98.68%",
     "time": 2999,
     "timeDay": 4402,
     "timeWeek": 3744,
-    "timeMonth": 3597,
+    "timeMonth": 3610,
     "timeYear": 2999,
     "dailyMinutesDown": {
       "2022-11-02": 194,
@@ -149,7 +149,7 @@
       "2022-10-20": 405,
       "2022-10-19": 156,
       "2022-10-18": 215,
-      "2022-10-17": 106
+      "2022-10-17": 56
     }
   }
 ]
