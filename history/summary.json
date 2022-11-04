@@ -6,7 +6,7 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "80.25%",
+    "uptimeDay": "81.11%",
     "uptimeWeek": "83.15%",
     "uptimeMonth": "90.54%",
     "uptimeYear": "98.70%",
@@ -121,15 +121,15 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "81.72%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "81.71%",
+    "uptimeWeek": "79.65%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "98.72%",
     "time": 3041,
     "timeDay": 3551,
-    "timeWeek": 3947,
+    "timeWeek": 4001,
     "timeMonth": 3454,
     "timeYear": 3041,
     "dailyMinutesDown": {
@@ -148,7 +148,7 @@
       "2022-10-23": 287,
       "2022-10-22": 179,
       "2022-10-21": 99,
-      "2022-10-20": 282
+      "2022-10-20": 249
     }
   }
 ]
