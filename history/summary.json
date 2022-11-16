@@ -4,11 +4,11 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "81.99%",
-    "uptimeMonth": "91.02%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "81.98%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "98.83%",
     "time": 2838,
     "timeDay": 3933,
@@ -16,7 +16,7 @@
     "timeMonth": 3379,
     "timeYear": 2838,
     "dailyMinutesDown": {
-      "2022-11-16": 44,
+      "2022-11-16": 46,
       "2022-11-15": 128,
       "2022-11-14": 387,
       "2022-11-13": 306,
@@ -32,7 +32,7 @@
       "2022-11-03": 269,
       "2022-11-02": 72,
       "2022-11-01": 146,
-      "2022-10-31": 81
+      "2022-10-31": 57
     }
   },
   {
@@ -120,9 +120,9 @@
     "slug": "bot",
     "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "78.85%",
-    "uptimeMonth": "90.74%",
+    "uptimeDay": "82.32%",
+    "uptimeWeek": "78.75%",
+    "uptimeMonth": "90.72%",
     "uptimeYear": "98.79%",
     "time": 3285,
     "timeDay": 9125,
@@ -130,7 +130,7 @@
     "timeMonth": 4111,
     "timeYear": 3285,
     "dailyMinutesDown": {
-      "2022-11-16": 19,
+      "2022-11-16": 30,
       "2022-11-15": 359,
       "2022-11-14": 389,
       "2022-11-13": 190,
