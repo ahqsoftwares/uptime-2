@@ -4,19 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "71.65%",
-    "uptimeWeek": "80.04%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "72.55%",
+    "uptimeWeek": "80.02%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.82%",
     "time": 2882,
     "timeDay": 6587,
-    "timeWeek": 4034,
+    "timeWeek": 4088,
     "timeMonth": 3501,
     "timeYear": 2882,
     "dailyMinutesDown": {
-      "2022-11-17": 348,
+      "2022-11-17": 350,
       "2022-11-16": 169,
       "2022-11-15": 128,
       "2022-11-14": 387,
@@ -30,7 +30,7 @@
       "2022-11-06": 155,
       "2022-11-05": 236,
       "2022-11-04": 154,
-      "2022-11-03": 168
+      "2022-11-03": 132
     }
   },
   {
@@ -38,18 +38,19 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "96.81%",
+    "uptimeYear": "96.82%",
     "time": 3663,
     "timeDay": 5304,
     "timeWeek": 4017,
     "timeMonth": 3602,
     "timeYear": 3663,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-11-16": 16,
       "2022-10-14": 15,
       "2022-10-13": 24,
@@ -108,8 +109,7 @@
       "2022-04-16": 26,
       "2022-04-11": 692,
       "2022-04-10": 185,
-      "2022-04-09": 235,
-      "2022-04-08": 18
+      "2022-04-09": 235
     }
   },
   {
