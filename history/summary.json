@@ -4,17 +4,17 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "84.50%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "84.48%",
     "uptimeWeek": "80.34%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "98.78%",
-    "time": 2854,
-    "timeDay": 1604,
-    "timeWeek": 3348,
-    "timeMonth": 3356,
-    "timeYear": 2854,
+    "uptimeMonth": "90.64%",
+    "uptimeYear": "98.79%",
+    "time": 2853,
+    "timeDay": 1632,
+    "timeWeek": 3329,
+    "timeMonth": 3350,
+    "timeYear": 2853,
     "dailyMinutesDown": {
       "2022-11-18": 210,
       "2022-11-17": 511,
@@ -30,7 +30,7 @@
       "2022-11-07": 324,
       "2022-11-06": 155,
       "2022-11-05": 236,
-      "2022-11-04": 62
+      "2022-11-04": 39
     }
   },
   {
