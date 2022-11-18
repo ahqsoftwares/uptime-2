@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "59.17%",
-    "uptimeWeek": "78.14%",
+    "uptimeWeek": "78.77%",
     "uptimeMonth": "90.70%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 2859,
     "timeDay": 2307,
     "timeWeek": 3850,
-    "timeMonth": 3437,
+    "timeMonth": 3426,
     "timeYear": 2859,
     "dailyMinutesDown": {
       "2022-11-18": 119,
@@ -117,12 +117,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "68.47%",
-    "uptimeWeek": "79.56%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "68.46%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "98.80%",
     "time": 3325,
     "timeDay": 2553,
     "timeWeek": 5608,
@@ -144,7 +144,7 @@
       "2022-11-06": 136,
       "2022-11-05": 363,
       "2022-11-04": 253,
-      "2022-11-03": 42
+      "2022-11-03": 22
     }
   }
 ]
