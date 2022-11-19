@@ -4,19 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "86.95%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "86.84%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "98.80%",
     "time": 2873,
     "timeDay": 3978,
     "timeWeek": 3540,
     "timeMonth": 3409,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2022-11-19": 114,
+      "2022-11-19": 116,
       "2022-11-18": 210,
       "2022-11-17": 511,
       "2022-11-16": 169,
@@ -30,7 +30,7 @@
       "2022-11-08": 446,
       "2022-11-07": 324,
       "2022-11-06": 155,
-      "2022-11-05": 236
+      "2022-11-05": 148
     }
   },
   {
@@ -117,15 +117,15 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "80.61%",
-    "uptimeWeek": "80.32%",
-    "uptimeMonth": "90.66%",
+    "uptimeDay": "80.59%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "90.70%",
     "uptimeYear": "98.80%",
     "time": 3346,
     "timeDay": 5163,
-    "timeWeek": 5463,
+    "timeWeek": 5532,
     "timeMonth": 4390,
     "timeYear": 3346,
     "dailyMinutesDown": {
@@ -143,8 +143,7 @@
       "2022-11-08": 251,
       "2022-11-07": 249,
       "2022-11-06": 136,
-      "2022-11-05": 363,
-      "2022-11-04": 19
+      "2022-11-05": 363
     }
   }
 ]
