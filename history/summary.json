@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "87.66%",
-    "uptimeWeek": "81.07%",
-    "uptimeMonth": "90.59%",
+    "uptimeWeek": "80.97%",
+    "uptimeMonth": "90.57%",
     "uptimeYear": "98.80%",
     "time": 2855,
     "timeDay": 2273,
@@ -16,7 +16,7 @@
     "timeMonth": 3337,
     "timeYear": 2855,
     "dailyMinutesDown": {
-      "2022-11-22": 107,
+      "2022-11-22": 117,
       "2022-11-21": 210,
       "2022-11-20": 458,
       "2022-11-19": 222,
@@ -39,18 +39,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
     "status": "up",
-    "uptime": "96.95%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "96.95%",
+    "uptime": "96.89%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "96.89%",
     "time": 3591,
     "timeDay": 381,
     "timeWeek": 2670,
     "timeMonth": 3071,
     "timeYear": 3591,
     "dailyMinutesDown": {
-      "2022-11-22": 49,
+      "2022-11-22": 40,
       "2022-11-17": 182,
       "2022-11-16": 16,
       "2022-10-14": 15,
@@ -108,7 +108,8 @@
       "2022-04-19": 165,
       "2022-04-17": 121,
       "2022-04-16": 26,
-      "2022-04-11": 692
+      "2022-04-11": 692,
+      "2022-04-10": 185
     }
   },
   {
@@ -116,12 +117,12 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "68.82%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "68.80%",
     "uptimeWeek": "78.42%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "98.79%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "98.80%",
     "time": 3372,
     "timeDay": 1632,
     "timeWeek": 4540,
@@ -141,7 +142,7 @@
       "2022-11-12": 277,
       "2022-11-11": 348,
       "2022-11-10": 401,
-      "2022-11-09": 148
+      "2022-11-09": 109
     }
   }
 ]
