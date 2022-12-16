@@ -1,7 +1,7 @@
 url: https://ahq-miness.ahqsecret.repl.co/
-status: up
-code: 200
-responseTime: 6550
-lastUpdated: 2022-12-16T15:37:38.244Z
+status: down
+code: 429
+responseTime: 13457
+lastUpdated: 2022-12-16T16:37:06.282Z
 startTime: Mon Mar 28 2022 11:46:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
