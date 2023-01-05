@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.03%",
-    "time": 2703,
-    "timeDay": 492,
-    "timeWeek": 772,
-    "timeMonth": 1070,
-    "timeYear": 2703,
+    "uptime": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.02%",
+    "time": 2701,
+    "timeDay": 400,
+    "timeWeek": 755,
+    "timeMonth": 1071,
+    "timeYear": 2701,
     "dailyMinutesDown": {
-      "2023-01-04": 8,
       "2023-01-02": 45,
       "2022-12-29": 48,
       "2022-12-27": 39,
@@ -40,7 +39,8 @@
       "2022-11-13": 306,
       "2022-11-12": 270,
       "2022-11-11": 383,
-      "2022-11-10": 160
+      "2022-11-10": 160,
+      "2022-11-09": 49
     }
   },
   {
@@ -50,17 +50,16 @@
     "slug": "beta-dashboard",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "97.59%",
-    "time": 3431,
-    "timeDay": 2963,
-    "timeWeek": 1608,
-    "timeMonth": 1994,
-    "timeYear": 3431,
+    "time": 3425,
+    "timeDay": 3049,
+    "timeWeek": 1624,
+    "timeMonth": 2030,
+    "timeYear": 3425,
     "dailyMinutesDown": {
-      "2023-01-04": 8,
       "2023-01-02": 17,
       "2022-12-31": 24,
       "2022-12-29": 48,
@@ -123,7 +122,7 @@
       "2022-04-21": 403,
       "2022-04-20": 70,
       "2022-04-19": 165,
-      "2022-04-17": 54
+      "2022-04-17": 80
     }
   },
   {
@@ -133,17 +132,16 @@
     "slug": "bot",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.06%",
-    "time": 3280,
-    "timeDay": 7215,
-    "timeWeek": 1773,
-    "timeMonth": 2212,
-    "timeYear": 3280,
+    "time": 3277,
+    "timeDay": 2521,
+    "timeWeek": 1780,
+    "timeMonth": 2243,
+    "timeYear": 3277,
     "dailyMinutesDown": {
-      "2023-01-04": 8,
       "2023-01-02": 17,
       "2022-12-29": 31,
       "2022-12-27": 51,
@@ -165,7 +163,7 @@
       "2022-11-14": 389,
       "2022-11-13": 190,
       "2022-11-12": 277,
-      "2022-11-11": 175
+      "2022-11-11": 204
     }
   }
 ]
