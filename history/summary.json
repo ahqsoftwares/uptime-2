@@ -6,17 +6,16 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.04%",
-    "time": 2697,
-    "timeDay": 2029,
-    "timeWeek": 729,
-    "timeMonth": 1129,
-    "timeYear": 2697,
+    "time": 2696,
+    "timeDay": 2148,
+    "timeWeek": 761,
+    "timeMonth": 1122,
+    "timeYear": 2696,
     "dailyMinutesDown": {
-      "2023-01-06": 10,
       "2023-01-05": 26,
       "2023-01-02": 45,
       "2022-12-29": 48,
@@ -41,7 +40,7 @@
       "2022-11-13": 306,
       "2022-11-12": 270,
       "2022-11-11": 383,
-      "2022-11-10": 114
+      "2022-11-10": 160
     }
   },
   {
@@ -51,17 +50,16 @@
     "slug": "beta-dashboard",
     "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "97.60%",
-    "time": 3447,
-    "timeDay": 7245,
-    "timeWeek": 2501,
-    "timeMonth": 2365,
-    "timeYear": 3447,
+    "time": 3441,
+    "timeDay": 5600,
+    "timeWeek": 2529,
+    "timeMonth": 2368,
+    "timeYear": 3441,
     "dailyMinutesDown": {
-      "2023-01-06": 10,
       "2023-01-02": 17,
       "2022-12-31": 24,
       "2022-12-29": 48,
@@ -124,7 +122,7 @@
       "2022-04-21": 403,
       "2022-04-20": 70,
       "2022-04-19": 165,
-      "2022-04-17": 54
+      "2022-04-17": 80
     }
   },
   {
@@ -134,17 +132,16 @@
     "slug": "bot",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.07%",
-    "time": 3272,
-    "timeDay": 1388,
-    "timeWeek": 2028,
-    "timeMonth": 2260,
-    "timeYear": 3272,
+    "time": 3270,
+    "timeDay": 1311,
+    "timeWeek": 2025,
+    "timeMonth": 2256,
+    "timeYear": 3270,
     "dailyMinutesDown": {
-      "2023-01-06": 9,
       "2023-01-02": 17,
       "2022-12-29": 31,
       "2022-12-27": 51,
@@ -166,7 +163,7 @@
       "2022-11-14": 389,
       "2022-11-13": 190,
       "2022-11-12": 277,
-      "2022-11-11": 175
+      "2022-11-11": 204
     }
   }
 ]
