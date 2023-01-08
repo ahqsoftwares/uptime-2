@@ -4,18 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 2700,
-    "timeDay": 4808,
+    "timeDay": 392,
     "timeWeek": 1314,
     "timeMonth": 941,
     "timeYear": 2700,
     "dailyMinutesDown": {
+      "2023-01-08": 1,
       "2023-01-05": 26,
       "2023-01-02": 45,
       "2022-12-29": 48,
@@ -40,7 +41,7 @@
       "2022-11-13": 306,
       "2022-11-12": 270,
       "2022-11-11": 383,
-      "2022-11-10": 160
+      "2022-11-10": 114
     }
   },
   {
@@ -48,18 +49,19 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
-    "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "status": "down",
+    "uptime": "97.62%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "97.61%",
+    "uptimeYear": "97.62%",
     "time": 3435,
     "timeDay": 281,
     "timeWeek": 2723,
     "timeMonth": 1572,
     "timeYear": 3435,
     "dailyMinutesDown": {
+      "2023-01-08": 1,
       "2023-01-02": 17,
       "2022-12-31": 24,
       "2022-12-29": 48,
@@ -122,7 +124,7 @@
       "2022-04-21": 403,
       "2022-04-20": 70,
       "2022-04-19": 165,
-      "2022-04-17": 80
+      "2022-04-17": 54
     }
   },
   {
@@ -130,18 +132,19 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 3265,
-    "timeDay": 380,
+    "timeDay": 268,
     "timeWeek": 2029,
-    "timeMonth": 2029,
+    "timeMonth": 2086,
     "timeYear": 3265,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2023-01-02": 17,
       "2022-12-29": 31,
       "2022-12-27": 51,
@@ -163,7 +166,7 @@
       "2022-11-14": 389,
       "2022-11-13": 190,
       "2022-11-12": 277,
-      "2022-11-11": 204
+      "2022-11-11": 175
     }
   }
 ]
