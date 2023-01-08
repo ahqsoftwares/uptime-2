@@ -6,9 +6,9 @@
     "slug": "dashboard",
     "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.05%",
     "time": 2705,
     "timeDay": 4560,
@@ -16,7 +16,7 @@
     "timeMonth": 1052,
     "timeYear": 2705,
     "dailyMinutesDown": {
-      "2023-01-08": 1,
+      "2023-01-08": 14,
       "2023-01-05": 26,
       "2023-01-02": 45,
       "2022-12-29": 48,
@@ -49,9 +49,9 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "97.62%",
@@ -61,6 +61,7 @@
     "timeMonth": 1560,
     "timeYear": 3431,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2023-01-02": 17,
       "2022-12-31": 24,
       "2022-12-29": 48,
@@ -123,7 +124,7 @@
       "2022-04-21": 403,
       "2022-04-20": 70,
       "2022-04-19": 165,
-      "2022-04-17": 80
+      "2022-04-17": 54
     }
   },
   {
@@ -131,18 +132,19 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 3266,
     "timeDay": 2726,
     "timeWeek": 2239,
     "timeMonth": 2138,
     "timeYear": 3266,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2023-01-02": 17,
       "2022-12-29": 31,
       "2022-12-27": 51,
@@ -164,7 +166,7 @@
       "2022-11-14": 389,
       "2022-11-13": 190,
       "2022-11-12": 277,
-      "2022-11-11": 204
+      "2022-11-11": 175
     }
   }
 ]
