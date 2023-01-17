@@ -4,7 +4,7 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "97.77%",
     "uptimeWeek": "97.01%",
@@ -47,7 +47,7 @@
       "2022-11-15": 128,
       "2022-11-14": 387,
       "2022-11-13": 306,
-      "2022-11-12": 196
+      "2022-11-12": 177
     }
   },
   {
