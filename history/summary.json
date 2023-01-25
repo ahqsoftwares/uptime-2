@@ -4,19 +4,19 @@
     "url": "https://guard-bot.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "99.23%",
-    "time": 2766,
-    "timeDay": 6246,
-    "timeWeek": 4306,
-    "timeMonth": 2986,
-    "timeYear": 2766,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "99.22%",
+    "time": 2771,
+    "timeDay": 6721,
+    "timeWeek": 4448,
+    "timeMonth": 3045,
+    "timeYear": 2771,
     "dailyMinutesDown": {
-      "2023-01-25": 94,
+      "2023-01-25": 106,
       "2023-01-24": 61,
       "2023-01-23": 40,
       "2023-01-22": 107,
@@ -62,9 +62,9 @@
     "slug": "beta-dashboard",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.02%",
     "time": 3476,
     "timeDay": 4065,
@@ -72,7 +72,7 @@
     "timeMonth": 3388,
     "timeYear": 3476,
     "dailyMinutesDown": {
-      "2023-01-25": 28,
+      "2023-01-25": 20,
       "2023-01-23": 100,
       "2023-01-22": 19,
       "2023-01-17": 75,
@@ -135,7 +135,7 @@
       "2022-04-27": 260,
       "2022-04-26": 73,
       "2022-04-25": 514,
-      "2022-04-23": 159
+      "2022-04-23": 180
     }
   },
   {
@@ -145,9 +145,9 @@
     "slug": "bot",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "97.89%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.26%",
     "time": 3248,
     "timeDay": 3018,
@@ -155,7 +155,7 @@
     "timeMonth": 2754,
     "timeYear": 3248,
     "dailyMinutesDown": {
-      "2023-01-25": 104,
+      "2023-01-25": 96,
       "2023-01-24": 83,
       "2023-01-23": 40,
       "2023-01-22": 16,
@@ -186,7 +186,7 @@
       "2022-11-19": 324,
       "2022-11-18": 322,
       "2022-11-17": 338,
-      "2022-11-16": 123
+      "2022-11-16": 142
     }
   }
 ]
