@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot.ahq-alt.repl.co.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.24%",
     "time": 2800,
     "timeDay": 11531,
     "timeWeek": 3644,
-    "timeMonth": 3633,
+    "timeMonth": 3648,
     "timeYear": 2800,
     "dailyMinutesDown": {
-      "2023-02-08": 9,
       "2023-01-30": 30,
       "2023-01-27": 28,
       "2023-01-26": 95,
@@ -55,7 +54,7 @@
       "2022-11-19": 222,
       "2022-11-18": 210,
       "2022-11-17": 511,
-      "2022-11-16": 125
+      "2022-11-16": 169
     }
   },
   {
@@ -67,12 +66,12 @@
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.11%",
     "time": 3407,
     "timeDay": 378,
     "timeWeek": 376,
-    "timeMonth": 2473,
+    "timeMonth": 2080,
     "timeYear": 3407,
     "dailyMinutesDown": {
       "2023-01-26": 28,
@@ -147,18 +146,19 @@
     "url": "https://ahq-miness.ahqsecret.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ahq-miness.ahqsecret.repl.co.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.08%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.31%",
     "time": 3231,
     "timeDay": 10052,
     "timeWeek": 3982,
-    "timeMonth": 2839,
+    "timeMonth": 2828,
     "timeYear": 3231,
     "dailyMinutesDown": {
+      "2023-02-08": 0,
       "2023-02-02": 39,
       "2023-02-01": 18,
       "2023-01-27": 16,
@@ -192,8 +192,7 @@
       "2022-11-20": 179,
       "2022-11-19": 324,
       "2022-11-18": 322,
-      "2022-11-17": 338,
-      "2022-11-16": 16
+      "2022-11-17": 338
     }
   }
 ]
