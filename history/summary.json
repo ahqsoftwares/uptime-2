@@ -64,18 +64,19 @@
     "url": "https://guard-bot-beta.ahq-alt.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/guard-bot-beta.ahq-alt.repl.co.ico",
     "slug": "beta-dashboard",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.26%",
     "time": 3399,
     "timeDay": 4132,
     "timeWeek": 2253,
     "timeMonth": 2143,
     "timeYear": 3399,
     "dailyMinutesDown": {
+      "2023-02-12": 0,
       "2023-02-09": 129,
       "2023-02-08": 35,
       "2023-01-26": 28,
@@ -139,8 +140,7 @@
       "2022-04-30": 38,
       "2022-04-29": 401,
       "2022-04-28": 22,
-      "2022-04-27": 260,
-      "2022-04-26": 16
+      "2022-04-27": 260
     }
   },
   {
